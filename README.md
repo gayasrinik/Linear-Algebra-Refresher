@@ -1,7 +1,7 @@
 # Linear-Algebra-Refresher
 The content of this repository are created while learning Udacity's free course on Linear Algebra Refresher - https://www.udacity.com/course/linear-algebra-refresher-course--ud953
 
-# Custom Vector Class
+## Custom Vector Class
 The python code library for initiating the vector class was provided as a part of the course. Ihave tried to come up with my C++ class definition to perform the same task. 
 
 Suggested improvements to this code: 
